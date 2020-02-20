@@ -93,7 +93,11 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 
 ## Measurements
 
-_TODO: Record and describe your circuit measurements and calculations here._
+_Voltage loss for LED: 03.123,1 V_
+
+_Current in circuit: 05.758,1 mA_
+
+_Resistence for LED: 542.3837724 R_
 
 ## Demo videos
 
