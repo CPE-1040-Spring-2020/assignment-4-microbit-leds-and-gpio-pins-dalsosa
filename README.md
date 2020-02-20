@@ -97,4 +97,4 @@ _TODO: Record and describe your circuit measurements and calculations here._
 
 ## Demo videos
 
-_TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
+_DC [circuit] (https://imgur.com/a/63HWsRC) video_
