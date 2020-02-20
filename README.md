@@ -97,4 +97,4 @@ _TODO: Record and describe your circuit measurements and calculations here._
 
 ## Demo videos
 
-_DC [circuit] (https://imgur.com/a/63HWsRC) video_
+_DC [circuit](https://imgur.com/a/63HWsRC) video_
