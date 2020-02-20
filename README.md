@@ -98,4 +98,5 @@ _TODO: Record and describe your circuit measurements and calculations here._
 ## Demo videos
 
 _DC [circuit](https://imgur.com/a/63HWsRC) video_
+
 _Mirco bit [tutorial](https://imgur.com/a/A8TtTuF) video_
